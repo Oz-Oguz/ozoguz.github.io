@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khoi Hoang Dinh | Oz Oguz</title>
+    <link>/author/khoi-hoang-dinh/</link>
+      <atom:link href="/author/khoi-hoang-dinh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khoi Hoang Dinh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Khoi Hoang Dinh</title>
+      <link>/author/khoi-hoang-dinh/</link>
+    </image>
+    
+    <item>
+      <title>Adaptation and Transfer of Robot Motion Policies for Close Proximity Human-Robot Interaction</title>
+      <link>/publication/hoang-dinh-adaptation-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hoang-dinh-adaptation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to integrate human motion prediction into local obstacle avoidance in close human-robot collaboration</title>
+      <link>/publication/dinh-approach-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dinh-approach-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ozgur S. Oguz | Oz Oguz</title>
+    <link>/author/ozgur-s.-oguz/</link>
+      <atom:link href="/author/ozgur-s.-oguz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ozgur S. Oguz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ozgur S. Oguz</title>
+      <link>/author/ozgur-s.-oguz/</link>
+    </image>
+    
+    <item>
+      <title>Robust Task and Motion Planning for Long-Horizon Architectural Construction Planning</title>
+      <link>/publication/hartmann-robust-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hartmann-robust-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Framework to Increase Safety of Learning Algorithms for Dynamical Systems Based on Region of Attraction Estimation</title>
+      <link>/publication/zhou-general-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-general-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ontology for Human-Human Interactions and Learning Interaction Behavior Policies</title>
+      <link>/publication/oguz-ontology-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-ontology-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation and Transfer of Robot Motion Policies for Close Proximity Human-Robot Interaction</title>
+      <link>/publication/hoang-dinh-adaptation-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hoang-dinh-adaptation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Inverse Optimal Control Approach to Explain Human Arm Reaching Control Based on Multiple Internal Models</title>
+      <link>/publication/oguz-inverse-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-inverse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hand Movement Interaction Control Using RNNs: From HHI to HRI</title>
+      <link>/publication/oguz-learning-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-learning-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Framework for Understanding and Predicting Human Reaching Motions</title>
+      <link>/publication/oguz-hybrid-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-hybrid-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hand Movement Interaction Control Using RNNs: From HHI to HRI</title>
+      <link>/publication/oguz-ws-learning-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-ws-learning-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive stochastic motion planning for human-robot interaction</title>
+      <link>/publication/oguz-progressive-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-progressive-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Human Motion Prediction for Action Selection Within Human-Robot Collaboration</title>
+      <link>/publication/kulic-hybrid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kulic-hybrid-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Human Motion Prediction for Action Selection Within Human-Robot Collaboration</title>
+      <link>/publication/oguz-hybrid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-hybrid-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

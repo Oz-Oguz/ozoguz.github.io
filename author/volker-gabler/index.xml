@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volker Gabler | Oz Oguz</title>
+    <link>/author/volker-gabler/</link>
+      <atom:link href="/author/volker-gabler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volker Gabler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Volker Gabler</title>
+      <link>/author/volker-gabler/</link>
+    </image>
+    
+    <item>
+      <title>A game-theoretic approach for adaptive action selection in close proximity human-robot-collaboration</title>
+      <link>/publication/gabler-game-theoretic-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gabler-game-theoretic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Human Motion Prediction for Action Selection Within Human-Robot Collaboration</title>
+      <link>/publication/kulic-hybrid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kulic-hybrid-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Human Motion Prediction for Action Selection Within Human-Robot Collaboration</title>
+      <link>/publication/oguz-hybrid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-hybrid-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to integrate human motion prediction into local obstacle avoidance in close human-robot collaboration</title>
+      <link>/publication/dinh-approach-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dinh-approach-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

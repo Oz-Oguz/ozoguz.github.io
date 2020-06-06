@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Kostavelis | Oz Oguz</title>
+    <link>/author/ioannis-kostavelis/</link>
+      <atom:link href="/author/ioannis-kostavelis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ioannis Kostavelis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ioannis Kostavelis</title>
+      <link>/author/ioannis-kostavelis/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Human-Robot Collaborative Environment for Recycling Electrical and Electronic Equipment</title>
+      <link>/publication/axenopulos-hybrid-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/axenopulos-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

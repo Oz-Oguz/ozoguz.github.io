@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Oz Oguz</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Human-Robot Collaborative Environment for Recycling Electrical and Electronic Equipment</title>
+      <link>/publication/axenopulos-hybrid-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/axenopulos-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hand Movement Interaction Control Using RNNs: From HHI to HRI</title>
+      <link>/publication/oguz-ws-learning-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-ws-learning-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive stochastic motion planning for human-robot interaction</title>
+      <link>/publication/oguz-progressive-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-progressive-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A game-theoretic approach for adaptive action selection in close proximity human-robot-collaboration</title>
+      <link>/publication/gabler-game-theoretic-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gabler-game-theoretic-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to integrate human motion prediction into local obstacle avoidance in close human-robot collaboration</title>
+      <link>/publication/dinh-approach-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dinh-approach-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptic negotiation and role exchange for collaboration in virtual environments</title>
+      <link>/publication/oguz-haptic-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/oguz-haptic-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
